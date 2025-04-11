@@ -71,7 +71,7 @@
 4. Ensure Brave/Chrome is properly installed
 
 ## ⚠️ Important Notes
- submissions-🐍 Requires Python 3.6+
+🐍 Requires Python 3.6+
 - 🔄 Works with Google's original 151 Pokémon only
 - ⏱️ Includes intentional UABrowser locking
 - 🚫 Not affiliated with Google or Nintendo
