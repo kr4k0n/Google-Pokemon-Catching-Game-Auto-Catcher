@@ -1,0 +1,3 @@
+BRAVE_PATH="/usr/bin/brave-browser-stable"  # linux path example
+GOOGLE_EMAIL="changeme"
+GOOGLE_PASSWORD="changeme"
