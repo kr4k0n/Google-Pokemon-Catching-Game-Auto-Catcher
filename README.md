@@ -27,7 +27,7 @@
    ```
 3. Run script:
    ```bash
-   python mobilegopoke.py
+   python gopoke.py
    ```
 
 ## 🏆 Key Improvements
