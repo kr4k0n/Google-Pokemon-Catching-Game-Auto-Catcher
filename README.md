@@ -1,5 +1,3 @@
-Here's the GitHub-formatted project documentation with emojis based on the script:
-
 ```markdown
 # 🎮 Google's Pokémon Catching Game Auto-Catcher
 
