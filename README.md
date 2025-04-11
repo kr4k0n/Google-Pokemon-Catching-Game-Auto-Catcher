@@ -66,7 +66,7 @@
    - ✅ Enable "Search Personalization" in Google settings
    - 🖥️ Keep browser window focused
    - 🚫 Don't move mouse during operation
-2. Clear `progress.json` to reset catcher
+2. Delete or Clear `progress.json` in the same folder where `gopoke.py` is stored to reset catcher
 3. Running in virtual environment is required
 4. Ensure Brave/Chrome is properly installed
 
