@@ -29,6 +29,8 @@
    ```bash
    python gopoke.py
    ```
+4. You can make the script to run headless (without showing the browser)
+   by changing the value `headless=False` to `headless=True` in `gopoke.py`
 
 ## 🏆 Key Improvements
 - 🛡️ Virtual environment validation
