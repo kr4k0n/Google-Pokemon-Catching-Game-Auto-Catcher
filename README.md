@@ -1,4 +1,3 @@
-```
 # 🎮 Google's Pokémon Catching Game Auto-Catcher
 
 ## ✨ Features
@@ -61,4 +60,3 @@
 - ⏱️ Includes intentional UABrowser locking
 - 🚫 Not affiliated with Google or Nintendo
 - 📜 Credit original author (Phr34kz)
-```
