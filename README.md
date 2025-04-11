@@ -59,4 +59,4 @@
 - 🔄 Works with Google's original 151 Pokémon only
 - ⏱️ Includes intentional UABrowser locking
 - 🚫 Not affiliated with Google or Nintendo
-- 📜 Credit original author (Phr34kz)
+- 📜 Credit original author (Phr34kz - Myself)
