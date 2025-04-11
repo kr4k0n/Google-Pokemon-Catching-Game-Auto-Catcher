@@ -1,5 +1,8 @@
 # 🎮 Google's Pokémon Catching Game Auto-Catcher
 
+![Auto-catches all 151 original Pokémon from Google's search game](https://github.com/kr4k0n/Google-Pokemon-Catching-Game-Auto-Catcher/blob/main/autopoke.gif?raw=true)
+
+
 ## ✨ Features
 - 🤖 Auto-catches all 151 original Pokémon from Google's search game
 - 📁 Progress tracking with JSON save file
