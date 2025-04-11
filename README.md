@@ -1,4 +1,4 @@
-```markdown
+```
 # 🎮 Google's Pokémon Catching Game Auto-Catcher
 
 ## ✨ Features
